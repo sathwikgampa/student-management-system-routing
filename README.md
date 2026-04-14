@@ -9,9 +9,11 @@ A modern, responsive Single Page Application (SPA) built using **React.js** to d
 
 ## 🎯 Project Scope & Purpose
 **Note:** This project was developed specifically to implement and demonstrate **Client-Side Routing**. 
-* The primary focus is on seamless page transitions and URL management using `react-router-dom`.
-* Data is currently handled via local state and static arrays (Mock Data).
-* No backend or database integration was required for this specific Week 12 implementation.
+
+* **Academic Focus:** Developed for the Week 12 curriculum to master SPA principles.
+* **Navigation:** Primary focus is on seamless page transitions and URL management using `react-router-dom`.
+* **Data Handling:** Currently managed via local state and static arrays (Mock Data).
+* **Architecture:** No backend or database integration was required for this specific lab implementation.
 
 ---
 
