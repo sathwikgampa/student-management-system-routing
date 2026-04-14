@@ -4,6 +4,9 @@ A modern, responsive Single Page Application (SPA) built using **React.js** to d
 
 ---
 
+> ### 🏛️ Context
+> Developed as part of the **Web Application Development (WAD) Lab** curriculum at **VNR VJIET** to master modern frontend architectures.
+
 ## 🎯 Project Scope & Purpose
 **Note:** This project was developed specifically to implement and demonstrate **Client-Side Routing**. 
 * The primary focus is on seamless page transitions and URL management using `react-router-dom`.
